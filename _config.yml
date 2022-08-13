@@ -23,7 +23,7 @@ timezone: Asia/Seoul
 
 title: Shin # the main title
 
-tagline: 개발하면서 배운 것들을 올리는 블로그 입니다. # it will display as the sub-title
+tagline: IT관련 글을 올립니다. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
