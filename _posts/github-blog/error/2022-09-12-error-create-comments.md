@@ -3,6 +3,7 @@ layout: post
 title: "[github 블로그] comments 란이 생성되지 않는 문제"
 date: 2022-09-12 02:59 +0900
 categories: [Github Blog, Error]
+tag: [Github, Comments, Giscus]
 ---
 # 문제
 github 블로그를 만들면서 댓글 기능을 추가하려고 하였다.
