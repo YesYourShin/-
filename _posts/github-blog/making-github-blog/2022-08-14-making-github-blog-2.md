@@ -2,7 +2,7 @@
 layout: post
 title: "[github 블로그 만들기] 2 - 게시글 작성 명령어"
 date: 2022-08-14 01:28 +0900
-categories: [Github Blog]
+categories: [Github Blog, Making Github Blog]
 tag: [Github, Ruby]
 ---
 
