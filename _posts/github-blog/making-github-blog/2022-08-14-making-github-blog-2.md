@@ -1,8 +1,8 @@
 ---
 layout: post
-title: github 블로그 만들기 2 - 게시글 작성 명령어
+title: "[github 블로그 만들기] 2 - 게시글 작성 명령어"
 date: 2022-08-14 01:28 +0900
-categories: [깃허브 블로그]
+categories: [Github Blog]
 tag: [Github, Ruby]
 ---
 
