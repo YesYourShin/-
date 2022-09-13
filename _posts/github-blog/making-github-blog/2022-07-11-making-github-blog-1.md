@@ -2,7 +2,7 @@
 layout: post
 title: "[github 블로그 만들기] 1 - 테마를 사용하여 블로그 생성하기"
 date: 2022-07-11 10:10 +0900
-categories: [Github Blog, Making Github Blog]
+categories: [Github Blog]
 tag: [Github, Ruby]
 ---
 

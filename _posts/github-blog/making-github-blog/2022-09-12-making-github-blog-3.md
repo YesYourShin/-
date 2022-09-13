@@ -2,7 +2,7 @@
 layout: post
 title: "[github 블로그 만들기] 3 - 댓글 기능 추가하기"
 date: 2022-09-12 02:47 +0900
-categories: [Github Blog, Making Github Blog]
+categories: [Github Blog]
 tag: [Github, Comments, Giscus, Discussions]
 ---
 # 댓글 플랫폼 정하기
