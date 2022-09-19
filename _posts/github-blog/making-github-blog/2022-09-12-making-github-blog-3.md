@@ -5,7 +5,7 @@ date: 2022-09-12 02:47 +0900
 categories: [Github Blog]
 tag: [Github, Comments, Giscus, Discussions]
 ---
-# 댓글 플랫폼 정하기
+## 댓글 플랫폼 정하기
 
 댓글 플랫폼으로는 disqus, utterances, giscus가 있다.
 
@@ -20,7 +20,7 @@ utterances는 issue탭을 사용하는 것이 마음에 들지 않았고, 댓글
 
 giscus는 토론이나 커뮤니티를 위해 만들어진 discussions를 댓글로 사용하게 해주고 대댓글도 사용 가능하다. 그래서 giscus를 쓰기로 하였다.
 
-# 활성화 방법
+## 활성화 방법
 
 1. 댓글을 사용할 레포지토리를 public으로 전환한다.
 2. Github 계정에 giscus 앱을 설치
@@ -36,7 +36,7 @@ giscus는 토론이나 커뮤니티를 위해 만들어진 discussions를 댓글
 4. 그 후 Discussions을 사용하기 위해서, 댓글을 저장할 레포지토리의 Settings탭의 Features에서 Discussions에 체크를 해준다.
   ![image](https://user-images.githubusercontent.com/53047744/188344821-3ac116a2-823e-4b33-8a9d-6018649395e9.png)
 
-# giscus 댓글 커스텀하기
+## giscus 댓글 커스텀하기
 아래 링크로 들어가면 댓글 기능을 원하는 대로 커스텀 할 수 있다.
 > https://giscus.app/ko
 

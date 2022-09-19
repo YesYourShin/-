@@ -6,7 +6,7 @@ categories: [Github Blog]
 tag: [Github, Ruby]
 ---
 
-# 마음에 드는 github 블로그 테마를 선택해보자
+## 마음에 드는 github 블로그 테마를 선택해보자
 
 테마는 직접 만들 수도 있고 아래의 사이트에서 찾을 수도 있다.
 
@@ -29,7 +29,7 @@ tag: [Github, Ruby]
 
 설명 페이지의 HOME에서 Getting Started 포스팅을 읽으면 설치를 하고 어떻게 실행하면 되는지 설명이 나온다.
 
-# 테마를 내 리포지토리로 가져와보자
+## 테마를 내 리포지토리로 가져와보자
 
 잘 모르겠지만 레포지토리 url 뒤에 /generate를 붙이면 해당 레포지토리를 내 레포지토리로 가져오는 것 같다.
 
@@ -37,7 +37,7 @@ tag: [Github, Ruby]
 
 그 후 자신의 레포지토리의 프로젝트를 clone 하여 받는다.
 
-# Ruby 설치
+## Ruby 설치
 
 설치 사이트
 
@@ -63,7 +63,7 @@ WITH DEVKIT 라고 적힌 것 중 버전이 2.5.0 이상인 것을 다운한다.
 $ ruby -v
 ```
 
-# bundle 설치
+## bundle 설치
 
 gem은 node의 npm과 비슷하게 패키지를 설치할 수 있게 도와주는 툴이다.
 Gemfile은 bundler에서 사용하는 의존성 파일이고, bundle은 Gemfile에 정의된 gem들의 의존성을 파악해 사용할 수 있게 해준다.
@@ -74,7 +74,7 @@ Gemfile은 bundler에서 사용하는 의존성 파일이고, bundle은 Gemfile�
 $ bundle
 ```
 
-# \_config.yml 설정
+## \_config.yml 설정
 
 yml파일에서 필요한 것들을 작성해주자.
 
@@ -94,7 +94,7 @@ yml파일에서 필요한 것들을 작성해주자.
 > tagline: 개발하면서 배운 것들을 올리는 블로그 입니다.
 > url: "https://YesYourShin.github.io"
 
-# 로컬에서 사이트 확인하기
+## 로컬에서 사이트 확인하기
 
 루트 폴더에서 밑의 코드를 실행시킨다.
 
@@ -104,7 +104,7 @@ $ bundle exec jekyll s
 
 그러고 나면 <http://127.0.0.1:4000> 에서 사이트를 확인이 가능하다.
 
-# github에서 배포
+## github에서 배포
 
 설명 페이지에서 플랫폼 목록을 업데이트해야 한다고 나와있다.
 

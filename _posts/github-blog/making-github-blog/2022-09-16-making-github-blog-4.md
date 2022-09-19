@@ -5,7 +5,7 @@ date: 2022-09-16 15:17 +0900
 categories: [Github Blog]
 tag: [Github, Google Analytics, Google Cloud, Page View, Google Analytics superProxy]
 ---
-# Google Analytics 설정
+## Google Analytics 설정
 
 Google Analytics 계정 및 속성 만들기
 
@@ -48,7 +48,7 @@ GA4 속성을 선택하여 `관리` > `데이터 스트림`으로 이동하면 �
 ![image](https://user-images.githubusercontent.com/53047744/189792157-c977b1a9-40a6-4e92-993c-7e3b64e8b7e5.png)
 
 
-# Page Views 설정
+## Page Views 설정
 
 아래의 `Google Cloud` 홈페이지로 이동하여 `애플리케이션 만들기`를 클릭 한다.
 
@@ -159,7 +159,7 @@ superProxy를 사용하기 위해 `결제`와 `Google Analytics API`를 설정�
 ![image](https://user-images.githubusercontent.com/53047744/189794173-04888aed-43a2-4b81-a3d0-ef852301933c.png)
 
 
-# Google Analytics superProxy 설정
+## Google Analytics superProxy 설정
 
 아래 깃허브 링크에 있는 프로젝트에서 `Google Analytics superProxy` 프로젝트를 Google Cloud CLI가 깔린 폴더 안에 있는 `google-cloud-sdk`에 붙여넣기 한다.
 
@@ -204,7 +204,7 @@ deploy해서 배포된 서비스 주소 뒤에 /admin을 붙여서 접속하면 
 
 ![image](https://user-images.githubusercontent.com/53047744/189876500-184d6b69-6be7-48d3-bd2a-4708bcebb9d3.png)
 
-# Google Analytics Query 만들기
+## Google Analytics Query 만들기
 위 사진의 `Create Query` 버튼을 누르면 아래 페이지로 이동된다.
 
 ![image](https://user-images.githubusercontent.com/53047744/190543314-f00315aa-4509-46bb-8c23-77d0de913685.png)
@@ -252,4 +252,4 @@ Chirpy 테마 블로그에서는 필터도 설정하라고 적어놨는데 필�
 
 ![16](https://user-images.githubusercontent.com/53047744/190568951-c21f82e2-99e4-46d7-b5be-7f1d5a2e27a1.png)
 
-이 테마를 만든 사람의 블로그에 있는 설명을 보면서 했는데 superProxy 부분 설명이 대충되어 있어서 4일이나 걸렸다...
+이 테마를 만든 사람의 블로그에 있는 설명을 보면서 했는데 superProxy 부분에서 4일이나 걸렸다...
