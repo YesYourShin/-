@@ -31,6 +31,10 @@ editorconfig 파일도 Prettier와 비슷하게 자동으로 코드를 정리해
 
 `trim_trailing_whitespace`는 줄 끝의 공백 제거 여부를 나타낸다. 그래서 false로 설정하면 작동하지 않게 된다.
 
+ediforconfig의 Properties에 대한 자세한 설명을 보고싶은 경우 아래의 링크로 가자.
+
+> https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties
+
 ## VSCode의 텍스트 편집기 설정 수정하기
 
 VSCode의 설정에서 텍스트 편집기의 `Trim Trailing Whitespace`의 체크를 해제한다.
