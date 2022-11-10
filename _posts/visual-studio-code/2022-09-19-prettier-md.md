@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VSCode로 markdown 작성 시 줄 끝의 공백이 제거되는 현상 해결 방법
+title: "[VSCode] markdown 작성 시 줄 끝의 공백이 제거되는 현상 해결 방법"
 date: 2022-09-19 20:36 +0900
 categories: [Visual Studio Code]
 tag: [Visual Studio Code, Prettier, .editorconfig, Markdown]

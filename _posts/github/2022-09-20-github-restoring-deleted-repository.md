@@ -1,6 +1,6 @@
 ---
 layout: post
-title: github 삭제된 Repository 복구
+title: "[Github] 삭제된 Repository 복구"
 date: 2022-09-20 17:02 +0900
 categories: [Github]
 tag: [Github, Repository]
