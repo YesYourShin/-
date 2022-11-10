@@ -1,10 +1,10 @@
 ---
 layout: post
-title: github 블로그 리포지토리 삭제 복구
+title: github 삭제된 Repository 복구
 date: 2022-09-20 17:02 +0900
+categories: [Github]
+tag: [Github, Repository]
 ---
-# Github에서 Repository를 삭제 했을 때 복구하는 방법
-
 페이지 오른쪽 상단 프로필을 클릭한 후 Settings를 클릭해 들어간다.
 
 ![제목 없음](https://user-images.githubusercontent.com/53047744/191199338-8cddb61d-a26e-4f5a-bdd2-f18741f15b9d.png)
